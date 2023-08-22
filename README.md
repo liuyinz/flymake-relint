@@ -48,3 +48,4 @@ Install with `M-x package-install` `RET` `flymake-relint` within Emacs.
 ```
 
 [relint]: https://github.com/mattiase/relint
+[melpa]: http://melpa.org/#/flymake-relint
